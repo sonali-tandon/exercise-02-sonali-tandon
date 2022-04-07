@@ -76,3 +76,22 @@ footer {
 .secondsection ul li p {
     font-size: 20px;
 }
+
+.touristspots {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.touristimg {
+    width: 60%;
+}
+
+.touristimg:hover {
+    transform: translate(10px, -10px);
+    border: 1px blue solid;
+}
+
+.touristcontent {
+    font-size: 20px;
+    margin: 50px 100px;
+}
