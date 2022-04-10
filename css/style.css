@@ -59,8 +59,17 @@ h2 {
 }
 
 footer {
+    font-size: 16px;
+    margin-top: 150px;
+}
+
+.sources {
+    width: 950px;
+    margin-left: 60px;
+}
+
+.copyright {
     float: right;
-    font-size: 20px;
     margin-right: 60px;
 }
 
